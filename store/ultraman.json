@@ -1,0 +1,16 @@
+[
+  {
+    "id": 0,
+    "name": "Ultraman Seven",
+    "description": "1967年（昭和42年）10月1日至1968年（昭和43年）9月8日播出。全49话。",
+    "wiki": "https://zh.wikipedia.org/zh-hans/%E8%B6%85%E4%BA%BA%E4%B8%83%E8%99%9F",
+    "image": "https://miniprogram-store.sre101.icu/images/ultraseven.webp"
+  },
+  {
+    "id": 1,
+    "name": "Ultraman Ace",
+    "description": "1972年（昭和47年）4月7日-1973年（昭和48年）3月30日播出。全52话。",
+    "wiki": "https://zh.wikipedia.org/zh-hans/%E8%B6%85%E4%BA%BA%E5%8A%9B%E9%9C%B8%E7%8E%8B%E8%A1%9B%E5%8F%B8",
+    "image": "https://miniprogram-store.sre101.icu/images/ultraace.webp"
+  }
+]
